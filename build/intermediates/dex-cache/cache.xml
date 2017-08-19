@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devajyoti\.android\build-cache\c32ed4c9cf8fc5e8d2f281bc9b91c8742de82022\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8569e407bef1fadf2a090e6b5420c1c3bca8619\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devajyoti\.android\build-cache\b151607973528f13c2c1cb28031bcd5e0a524708\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7975d9bbb2af3ca1ef9702c82a76db7b934bfc56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devajyoti\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0\dff931af436f0a2815d0109ab2258bbce2d6275d\glide-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-4.0.0_c6db5807735bba03260db493c6ed9c24baf3efb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_aaec2de31f9f41bccc7aba871e51c0828e515d8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devajyoti\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0\d88059003509074dd59fa226c822724bcf5ec0ca\disklrucache-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10\disklrucache-4.0.0_219e9f9d68bbfed8fd0fa13e54928e42a4ceefde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devajyoti\.android\build-cache\b5fe4d95b49913b681b9145db8096839b27a3805\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cba4fe757dbc929bf89e4d8500d7c68a7a21d591\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="628cf9d2ffeee3f2a113986e8c1ab6b527c2167c">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1e41cf0e378690d44f5b77c9623a0d637b6a1334\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devajyoti\.android\build-cache\5fce27b154bfd5cb5d1765e1abcb17d93cffbe74\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb834d922fc8a8ea158daa38ca805000b3daf1a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devajyoti\.android\build-cache\04a8bcdc6c380bb31f25e423d7c0de18128c87fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d2dc2214f806d01ce8911ceaa5b4b9341bb86052\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_858e3374f9bb95ffd9e71dabe2aa496cb035afd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devajyoti\.android\build-cache\1408af1cbe38882fb4844800a4475a66a7be8787\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_585eb87736a80f9f18e57deb2878f6d11a10bb02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devajyoti\.android\build-cache\3cbfac092f33c7a2b06b2df7451fa4c463e14133\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0279a125f93a280c8dddaf6c76b273a7cfc40d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devajyoti\.android\build-cache\1e6491b58023cd688157e16e0e6c73c965b64042\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_645cd3dfebf9ebaaef826fe0fef60059226d8620\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devajyoti\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0\f80192e6fd828d41c7da6f3552b0bef5d89cb26e\annotations-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-4.0.0_381c8c49e25c933c3f7616feb1bebd64c8680f87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_be983c4a942c48dfdff4355a8b16de47a78c9143\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devajyoti\.android\build-cache\01ea7e9a242bf4a9d2f31bf9e3ac2412a064a64c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3fb84cee57cb63ff761660d820cca40c78574e35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devajyoti\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0\47c487cc4e64e6ab127a517669ca9a7b49f8c61d\gifdecoder-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10\gifdecoder-4.0.0_99f5845cf3c252bca8d6b983bb110bc7d1f009c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Devajyoti\.android\build-cache\7893fc474f5ad8758cb217f9402a9b65bb9b8887\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Workshop\Dice-Dice-Baby\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_edf557cde8609c9986357525992d930f82702c82\classes.dex" />
+    </item>
+
+</items>
